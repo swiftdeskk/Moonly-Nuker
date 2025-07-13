@@ -31,7 +31,7 @@ Automatiza acciones masivas en servidores de Discord: creación y eliminación d
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/swiftdeskk/moonly-nuker.git
-````
+   ```
 
 2. Instala las dependencias:
 
