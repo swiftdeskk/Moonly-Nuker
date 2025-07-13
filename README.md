@@ -62,7 +62,7 @@ Automatiza acciones masivas en servidores de Discord: creación y eliminación d
 
 **swiftdeskk**
 
-* Instagram: [github.com/swiftdeskk](https://instagram/juztswift)
+* Instagram: [instagram.com/swiftdeskk](https://instagram.com/juztswift)
 * Web: [Moonlygg.com](https://Moonlygg.com)
 
 ---
